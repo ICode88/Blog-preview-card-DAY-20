@@ -74,7 +74,7 @@ text-align: center;
 .info p {
     padding-top: 2rem;
     color: var(--Gray-500);
-    line-height: 150%;
+    line-height: 2.5rem;
 }
 .profile {
     display: flex;
