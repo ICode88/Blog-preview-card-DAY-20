@@ -33,6 +33,11 @@ h1 {
     padding-top: 2rem;
     color: var(--Gray-950);
 }
+h1:hover {
+    color: var(--Yellow);
+    cursor: pointer;
+    transition:all ease-in-out 0.2s;
+}
 p {
     color: var(--Gray-950);
 }
